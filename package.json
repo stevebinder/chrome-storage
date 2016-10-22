@@ -1,6 +1,6 @@
 {
   "name": "chrome-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper class for the Chrome Storage API.",
   "main": "index.js",
   "repository": {
