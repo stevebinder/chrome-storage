@@ -1,0 +1,24 @@
+{
+  "name": "chrome-storage",
+  "version": "1.0.1",
+  "description": "Helper class for the Chrome Storage API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevebinder/chrome-storage.git"
+  },
+  "keywords": [
+    "chrome storage",
+    "local storage",
+    "chrome extension",
+    "chrome app",
+    "local",
+    "sync"
+  ],
+  "author": "Steve Binder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevebinder/chrome-storage/issues"
+  },
+  "homepage": "https://github.com/stevebinder/chrome-storage"
+}
