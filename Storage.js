@@ -168,3 +168,5 @@ Storage.clear = function(callback) {
     Storage._snapshot = {};
     Storage._do("clear", [callback]);
 }
+
+module ? (module.exports = Storage) : null;

@@ -1,5 +1,5 @@
 # Description
-A helper class for the [Chrome Storage API](https://developer.chrome.com/extensions/storage).
+Helper class for the [Chrome Storage API](https://developer.chrome.com/extensions/storage).
 
 # Installation
 This package is publicly available through npm ([chrome-storage](http://npmjs.com/chrome-storage)).
